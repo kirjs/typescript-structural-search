@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6254d72a-710e-4686-bc9f-e231a6f224dc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/typescript-talk.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="17295" column="3" selection-start-line="17295" selection-start-column="3" selection-end-line="17295" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kirjs.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class.*implemen</find>
+      <find>implements[\s\S]+[\s\S]+[\s\S]+[\s\S]+[\s\S]+B</find>
+      <find>implements([^\{])+B</find>
+      <find>implements([^\{])+\bB\b</find>
+      <find>implements</find>
+      <find>implements[^{]*?\bB\b</find>
+      <find>@</find>
+      <find>@|k|i|R|J|S</find>
+      <find>@|k|I|R|J|S</find>
+      <find>implements B</find>
+      <find>implements.*B</find>
+      <find>class (\w)+\s*implements[^{]*?\bB\b</find>
+      <find>class (\w)[\s\S]*?implements[\s]</find>
+      <find>class \w+[\s\S]*?implements[^{]*?\bB\b</find>
+      <find>@|K|I|R|J|S</find>
+      <find>imple</find>
+      <find>class (\w)+[^{]*?implements[^{]*?\bB\b</find>
+      <find>class (\w+)[^{]*?implements([^{]*?\bB\b)</find>
+      <find>class\s*(\w+)[^{]*?implements([^{]*?\bB\b)</find>
+      <find>\\</find>
+      <find>Code Mods                                                                                                                             '</find>
+      <find />
+      <find>:</find>
+      <find>r</find>
+      <find>j</find>
+      <find>s</find>
+      <find>k</find>
+      <find>@|K|I|R|J|S|:</find>
+      <find>G</find>
+      <find>console.log</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>🔥</replace>
+      <replace>❤️</replace>
+      <replace>class $1Awesome implements $2</replace>
+      <replace>\\</replace>
+      <replace>@</replace>
+      <replace>G</replace>
+      <replace>W</replace>
+      <replace>R</replace>
+      <replace>J</replace>
+      <replace>S</replace>
+      <replace>K</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/solutions.txt" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" />
+        <option value="$PROJECT_DIR$/kirjs.txt" />
+        <option value="$PROJECT_DIR$/typescript-talk.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="183" />
+    <option name="y" value="23" />
+    <option name="width" value="1449" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="typescript-structural-search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="typescript-structural-search" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="console.log" text="console.$action$($args$)" recursive="true" caseInsensitive="true" type="TypeScript">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="args" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="action" regexp="log|info|warn" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="log" text="console.log" recursive="true" caseInsensitive="true" type="TypeScript">
+      <constraint name="__context__" target="true" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="log" created="1555536652616" text="console.log($a$)" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="a" regexp="4" minCount="0" maxCount="2147483647" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="log" created="1555536632424" text="3" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="NAMED" scope_descriptor="Previous Search Results" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="log" created="1555536557434" text="$lg$" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="lg" reference="log" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="log" created="1555536549945" text="$lg$($a$)" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="lg" reference="log" within="" contains="" />
+      <constraint name="a" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="console.log" created="1555536496763" text="console.log" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="console.log" created="1555536469633" text="$ref$" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="ref" reference="console.log" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536417381" text="console.$action$($args$)" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="args" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="action" regexp="log|info|warn" within="" contains="" />
+    </searchConfiguration>
+    <replaceConfiguration name="user defined" created="1555536294887" text="class $f$ implements B {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="true" shortenFQN="false" replacement="x = $f$; " history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="f" maxCount="100" within="" contains="" />
+    </replaceConfiguration>
+    <searchConfiguration name="user defined" created="1555536259691" text="class $f$ implements B {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="f" maxCount="100" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536229550" text="class D3 implements B {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536107494" text="class $c$ implements B, A{}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="c" target="true" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536100048" text="class $c$ implements A, B{}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="c" target="true" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536093840" text="class $c$ implements $I$ {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="c" target="true" within="" contains="" />
+      <constraint name="I" regexp="One.*" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536093840" text="class $c$ implements A, B {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="c" target="true" within="" contains="" />
+    </searchConfiguration>
+    <replaceConfiguration name="user defined" created="1555536093841" text="class $c$ implements B {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="true" shortenFQN="false" replacement="$c$Awesome" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="c" target="true" within="" contains="" />
+    </replaceConfiguration>
+    <searchConfiguration name="user defined" created="1555536093841" text="class $c$ implements B {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="c" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536093841" text="class $c$ implements $a$, $b$ {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="a" regexp="B" within="" contains="" />
+      <constraint name="c" within="" contains="" />
+      <constraint name="b" regexp="A" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536093841" text="interface $A$ {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="A" within="" contains="" />
+    </searchConfiguration>
+    <replaceConfiguration name="user defined" created="1555536093841" text="console.log($args$)" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="true" shortenFQN="false" replacement="logger($args$).push()" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="args" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="user defined" created="1555536093841" text="console.log($args$)" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="true" shortenFQN="false" replacement="logger($args]).push()" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="args" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="user defined" created="1555536093841" text="console.log($args$)" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="specialLogger([$args$])" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="args" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <searchConfiguration name="user defined" created="1555536093841" text="console.log($args$)" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="args" maxCount="2147483647" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536093841" text="console.log()" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536093841" text="console.log&#10;" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536093841" text="console.log($params$);" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="params" maxCount="2147483647" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1555536093841" text="class $X$ implements B {}" recursive="true" caseInsensitive="true" type="TypeScript" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="X" within="" contains="" />
+    </searchConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6254d72a-710e-4686-bc9f-e231a6f224dc" name="Default Changelist" comment="" />
+      <created>1555289943912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555289943912</updated>
+      <workItem from="1555289946285" duration="5947000" />
+      <workItem from="1555298736461" duration="363000" />
+      <workItem from="1555300056375" duration="6339000" />
+      <workItem from="1555534559379" duration="15000" />
+      <workItem from="1555534600541" duration="2554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15218000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1678" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24984913" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Floobits" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="17295" column="3" selection-start-line="17295" selection-start-column="3" selection-end-line="17295" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kirjs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typescript-talk.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
